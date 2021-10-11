@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Apple iPhone 13 Mini (128GB) - Midnight]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-10-11T19:22:01 IST" name="Default suite" finished-at="2021-10-11T19:22:29 IST" duration-ms="28512">
+    <groups>
+    </groups>
+    <test started-at="2021-10-11T19:22:01 IST" name="Default test" finished-at="2021-10-11T19:22:29 IST" duration-ms="28512">
+      <class name="com.test.AddToCart">
+        <test-method signature="testAddToCart()[pri:0, instance:com.test.AddToCart@6ef888f6]" started-at="2021-10-11T19:22:01 IST" name="testAddToCart" finished-at="2021-10-11T19:22:29 IST" duration-ms="28472" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Apple iPhone 13 Mini (128GB) - Midnight]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testAddToCart -->
+      </class> <!-- com.test.AddToCart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
